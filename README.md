@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Stringhi 👋
 
-<!--
-**stringhi-web/stringhi-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-End Developer in training, focused on building clean and functional web interfaces.
 
-Here are some ideas to get you started:
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently
+- Studying Front-End development
+- Building personal projects
+- Looking for remote opportunities
+
+## Location
+Brazil
